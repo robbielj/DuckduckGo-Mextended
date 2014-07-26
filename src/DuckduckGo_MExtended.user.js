@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            DuckDuckGo MExtended
 // @description     Extends DDG by adding a customizable list of additional search engines for making fast searches from other engines. Modified version for bigger text,bugfixing and click ease.
-// @namespace       userscripts.org/users/439657
+// @namespace       greasyfork.org/users/3926-jguer
 // @homepage        https://github.com/Jguer/DuckduckGo-Mextended
 // @icon            https://raw.githubusercontent.com/Jguer/DuckduckGo-Mextended/master/resources/large.png
 // @updateURL       https://github.com/Jguer/DuckduckGo-Mextended/raw/master/src/DuckduckGo_MExtended.meta.js
