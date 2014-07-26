@@ -2,10 +2,10 @@
 // @name            DuckDuckGo MExtended
 // @description     Extends DDG by adding a customizable list of additional search engines for making fast searches from other engines. Modified version for bigger text,bugfixing and click ease.
 // @namespace       userscripts.org/users/439657
-// @homepage        http://userscripts.org/scripts/show/129505
+// @homepage        https://github.com/Jguer/DuckduckGo-Mextended
 // @icon            https://raw.githubusercontent.com/Jguer/DuckduckGo-Mextended/master/resources/large.png
-// @updateURL       https://userscripts.org/scripts/source/129505.meta.js
-// @downloadURL     https://userscripts.org/scripts/source/129505.user.js
+// @updateURL       https://github.com/Jguer/DuckduckGo-Mextended/raw/master/src/DuckduckGo_MExtended.meta.js
+// @downloadURL     https://github.com/Jguer/DuckduckGo-Mextended/raw/master/src/DuckduckGo_MExtended.user.js
 // @match           *://duckduckgo.com/*
 // @exclude         *://duckduckgo.com/post2.html 
 // @match           http://mycroftproject.com/*
