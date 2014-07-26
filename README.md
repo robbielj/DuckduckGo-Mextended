@@ -1,15 +1,16 @@
 #DuckduckGo-Mextended
-====================
+
 
 Fork of DuckduckGo Extended aimed at fixing bugs and improving quality, Extends DDG by adding a customizable list of additional search engines for making fast searches from other engines.
 
-##Features over DuckduckGo Extended:
+Features over DuckduckGo Extended:
+==
 - Fixed option menu
 - Cyan Background color
 - Larger Font
 - TPB as default torrent provider
 
-###TO-DO:
+TO-DO:
 ==
 - Add Background color options
 
