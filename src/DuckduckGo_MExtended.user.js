@@ -3,7 +3,7 @@
 // @description     Extends DDG by adding a customizable list of additional search engines for making fast searches from other engines. Modified version for bigger text,bugfixing and click ease.
 // @namespace       userscripts.org/users/439657
 // @homepage        http://userscripts.org/scripts/show/129505
-// @icon            http://s3.amazonaws.com/uso_ss/icon/129505/large.png?1368599692
+// @icon            https://raw.githubusercontent.com/Jguer/DuckduckGo-Mextended/master/resources/large.png
 // @updateURL       https://userscripts.org/scripts/source/129505.meta.js
 // @downloadURL     https://userscripts.org/scripts/source/129505.user.js
 // @match           *://duckduckgo.com/*
