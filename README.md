@@ -2,6 +2,7 @@
 
 
 Fork of DuckduckGo Extended aimed at fixing bugs and improving quality, Extends DDG by adding a customizable list of additional search engines for making fast searches from other engines.
+Intended for Greasemonkey. Tested on Waterfox v30
 
 ####Features over DuckduckGo Extended:
 
